@@ -1,10 +1,10 @@
 class Defai < Formula
   desc "CLI tool for developing and publishing DEFAI elements"
-  homepage "https://github.com/defaiza/defai-monorepo"
+  homepage "https://github.com/defaiza/defai-cli"
   version "1.0.0"
   
   # You'll need to update this URL and SHA256 after building and releasing
-  url "https://github.com/defaiza/defai-monorepo/releases/download/v1.0.0/defai-cli-v1.0.0.tar.gz"
+  url "https://github.com/defaiza/defai-cli/releases/download/v1.0.0/defai-cli-v1.0.0.tar.gz"
   sha256 "61718b0379547f3f1ea9732d6cbd882113ea40de520e5039140deab78e7c1ed8"
   
   license "MIT"
